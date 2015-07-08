@@ -1,26 +1,32 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Uknj
-tagline:          'Thoughts, observations and more.'
-description:      'A blog detailing my thoughts, ideas and life in general. Made by <a href="https://twitter.com/theuknj" target="_blank">@theuknj</a>.'
-url:              http://github.com/uknj
-baseurl:          /
+title:               Uknj.github.io
+tagline:             'Thoughts, observations and more...'
+description:         'A blog written by @theuknj talking about technology, gaming and other miscellaneous things which come to mind'
+url:                 http://uknj.github.io
+baseurl:             ''
+paginate:            5
 
+# About/contact
 author:
-  name:           'Umar Khan'
-  url:            https://twitter.com/theuknj
-
-paginate:         5
+  name:              Umar Khan
+  url:               https://twitter.com/theuknj
+  email:             uknj1995@gmail.com
 
 # Custom vars
-version:          1.0.0
+version:             1.0.0
 
-github:
-  repo:           https://github.com/uknj
+# Gem Plugins
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
+jekyll-mentions:
+  base_url: https://twitter.com
