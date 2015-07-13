@@ -26,7 +26,8 @@ I enjoy playing PC games. The main multiplayer games I play are
 
 * League of Legends, IGN: uknj
 * CS:GO (Counter Strike: Global Offensive), Steam IGN: uknj
-* Robocraft, IGN: See Steam IGN above.
+* Robocraft, IGN: See Steam IGN above
+* Hearthstone, IGN: uknj#1626.
 
 In addition to this, I also spend time dabbling around in games like Civilisation 5, Crusader Kings II etc etc.
 
