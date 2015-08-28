@@ -5,7 +5,7 @@ title: Ardupilots and Ultrasounds!
 
 As part of my degree, I was asked to design and build an autonomously controlled ground vehicle with a team. The big caveat was that it was all to be done within a budget of 250 GBP.
 
-N.B: This included construction of chassis and electronics etc etc.
+Note: This included construction of chassis and electronics etc etc.
 
 The design method we decided to use for the navigation was to use an [Ardupilot](http://rover.ardupilot.com/). In order to avoid obstacles, we settled upon using ultrasonic sensors. This was because they were suitable for the required location (outdoors with little to no chance of interference) and that the Ardupilot firmware could navigate based on such devices [see here](http://rover.ardupilot.com/wiki/common-optional-hardware/common-rangefinder-landingpage/).
 
@@ -21,8 +21,10 @@ I then connected the the V^OUT into the APM as shown [here](http://copter.ardupi
 
 The code uses an equation (the map function) that converts the distance into PWM values. This mapping will vary based on the distance of the sensor we are emulating. This line of code (`map(ultraleft.Ranging(CM), 0, 431, 0, 70)`) uses the [map function](https://www.arduino.cc/en/Reference/Map) is based on the 10m sensor and according to its [datasheet](http://maxbotix.com/documents/XL-MaxSonar-EZ_Datasheet.pdf), "For the 10 meter sensors (MB1260, MB1261, MB1360, MB1361), this pin outputs analog voltage with a scaling factor of (Vcc/1024) per 2 cm.  A supply of 5V yields ~4.9mV/2cm., and 3.3V yields ~3.2mV/2cm."  After some maths the above map function can be derived. Somewhat arbitrarily I used a maximum of 431 for the value that the HC-SR04 sensor will return as I found that when approaching the maxmimum value of 5m the sensor would appear to give somewhat erratic values.
 
-I do believe that the function can still be optimized, however for a ground based rover it is accurate enough.
+I do believe that the function can still be optimized, however for a ground based rover it is accurate enough. I will at some point upload the table of values/settings used for the APM, will update when it is done.
 
 If you have any improvements to the code, please do make a pull request.
 
-Uk
+
+Happy Hacking,
+Uknj
