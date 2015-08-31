@@ -13,8 +13,12 @@ Bill Gates has claimed it is "The best business book I've ever read". It was fir
 
 Chapter 1. The Fluctuation.This chapter covered the [flash crash of 1962](https://en.wikipedia.org/wiki/Kennedy_Slide_of_1962) in particular, the May 28<sup>th</sup>/29<sup>th</sup> crash. The chapter opens with a brief history of the stock exchange which then goes on to give information on the drop in the Dow Jones and the volumes of trades which occurred and compare them briefly to the 1929 crash for the week of Maz 21<sup>st</sup> to May 25<sup>th</sup>. After a brief explanation of how news of trades was communicated back in the day, the writer goes into detail about the delays occurring on the stock exchange ticker and the panic that was slowly taking over investors. After going on to mention the potential effect(s) of mutual funds and margin calls on the stock market, Brooks continues the story as the stock market goes into tuesday. Europe which was effectively behind New York by 24 hours had experienced the shockwaves of yesterday, with several stock markets making massive losses. The big question at the time was would the avalanche of market drops continue. As i 
 
-For another interesting take please read [this](http://www.wsj.com/articles/SB10001424052748703957604575272791511469272) WSJ article,and [these]()news paper articles from that date -also by WSJ
+For another interesting take on the crisis, and how it related to the flash crash of 2010, please read [this WSJ article](http://www.wsj.com/articles/SB10001424052748703957604575272791511469272) WSJ article. In addition, there are some news paper articles from 1962:
 
+1. [Abreast of the Market](http://online.wsj.com/public/resources/documents/Abreast0528.pdf)
+2. [The Market Plunge](http://online.wsj.com/public/resources/documents/plung0528.pdf)
+3. [Heller Says Economic Prospects Provide No Basis for Sharp Stock Market Drop](http://online.wsj.com/public/resources/documents/plunge2.0528.pdf)
+4. [SEC Probes Market to See if the 'Pros' Helped Trigger Drop](http://online.wsj.com/public/resources/documents/SECSource.pdf)
 ###Citations:
 
 ######<sup>[1]</sup>[Wikipedia](https://en.wikipedia.org/wiki/John_Brooks_%28writer%29)
