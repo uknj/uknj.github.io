@@ -15,7 +15,9 @@ Chapter 1. The Fluctuation.This chapter covered the [flash crash of 1962](https:
 
 But by a little past mid day, the market was on the upswing. Due to the large delay on the stock exchange ticker, share prices were 1 hour behind, giving the impression that prices were still low whereas the reality was that a buying panic was slowly beginning to take place. After an analysis on the reason the stock market was turning and an enthralling mention about American Telephone & Telegraph (now known as AT&T) and it being one of the key reasons the stock market turned. 
 
-Brooks finally ended the story with a mention about
+Brooks finally ended the story with a mention about the inefficiency of the stock exchange in that era, with orders getting lost, delays between recieving the customers buy/sell order and being able to execute it. Nowadays it is hoped that such things can be avoided with the use of the internet and modern day technology.
+
+Despite this flash crash being over 50 years ago, the psychology of the modern day investor appears to have remained the same.
 
 For another interesting take on the crisis, and how it related to the flash crash of 2010, please read [this WSJ article](http://www.wsj.com/articles/SB10001424052748703957604575272791511469272) WSJ article. In addition, there are some news paper articles from 1962:
 
