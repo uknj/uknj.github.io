@@ -19,12 +19,16 @@ Brooks finally ended the story with a mention about the inefficiency of the stoc
 
 Despite this flash crash being over 50 years ago, the psychology of the modern day investor appears to have remained the same.
 
-For another interesting take on the crisis, and how it related to the flash crash of 2010, please read [this WSJ article](http://www.wsj.com/articles/SB10001424052748703957604575272791511469272) WSJ article. In addition, there are some news paper articles from 1962:
+For another interesting take on the crisis, and how it related to the flash crash of 2010, please read [this WSJ article](http://www.wsj.com/articles/SB10001424052748703957604575272791511469272) WSJ article. In addition, there are some news paper articles (also WSJ) from 1962, providing a detailed account of what was ocurring at the time.
 
 1. [Abreast of the Market](http://online.wsj.com/public/resources/documents/Abreast0528.pdf)
 2. [The Market Plunge](http://online.wsj.com/public/resources/documents/plung0528.pdf)
 3. [Heller Says Economic Prospects Provide No Basis for Sharp Stock Market Drop](http://online.wsj.com/public/resources/documents/plunge2.0528.pdf)
 4. [SEC Probes Market to See if the 'Pros' Helped Trigger Drop](http://online.wsj.com/public/resources/documents/SECSource.pdf)
+
+
+This is the first part in a series that will summarize and review the book Business Adventures by John Brooks.
+
 ###Citations:
 
 ######<sup>[1]</sup>[Wikipedia](https://en.wikipedia.org/wiki/John_Brooks_%28writer%29)
