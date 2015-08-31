@@ -9,11 +9,11 @@ The first of what will hopefully be many reviews of books that I find intriguing
 
 The author, John Brooks (1920–1993) was a writer and longtime contributor to The New Yorker magazine, where he worked for many years as a staff writer, specializing in financial topics. Brooks was also the author of several books, both fiction and non-fiction, the best known of which was an examination of the financial shenanigans of the 1960s Wall Street bull market.<sup>[1]</sup>
 
-Bill Gates has claimed it is "The best business book I've ever read"<sup>[2]</sup>. It was first given to him by Warren Buffet back in 1991. Bill Gates has reviewed the book and it can be found [here](http://www.gatesnotes.com/Books/Business-Adventures). He even provides a free download to one of the chapters.
+Bill Gates has claimed it is "The best business book I've ever read". It was first given to him by Warren Buffet back in 1991.<sup>[2]</sup> Bill Gates has reviewed the book and it can be found [here](http://www.gatesnotes.com/Books/Business-Adventures). He even provides a free download to one of the chapters.
 
-
+Chapter 1. The Fluctuation.This chapter covered the [flash crash of 1962](https://en.wikipedia.org/wiki/Kennedy_Slide_of_1962) in particular, the May 28<sup>th</sup>/29<sup>th</sup> crash. The chapter opens with a brief history of the stock exchange which then goes on to give information on the drop in the Dow Jones and the volumes of trades which occurred.
 
 ###Citations:
 
 ######<sup>[1]</sup>[Wikipedia](https://en.wikipedia.org/wiki/John_Brooks_%28writer%29)
-######<sup>[2]</sup>[Gates Notes](http://www.gatesnotes.com/Books/Business-Adventures)
+######<sup>[2]</sup>[GatesNotes](http://www.gatesnotes.com/Books/Business-Adventures)
